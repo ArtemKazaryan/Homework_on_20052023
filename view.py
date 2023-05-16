@@ -31,7 +31,7 @@ class View:
                         'Производитель': None,
                         'Размер': None}
         for key in dict_footwear.keys():
-            dict_footwear[key] = input(f'Введите {key.lower()} обувь: ')
+            dict_footwear[key] = input(f'Введите {key.lower()} обуви: ')
         return dict_footwear
 
     @add_title('Неизвестная ошибка')
