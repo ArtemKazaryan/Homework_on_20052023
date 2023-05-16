@@ -1,0 +1,1 @@
+{"type": "1", ""variety": "1", "color": "1", "price": "1", "manufacturer": "1", "size": "1"}
