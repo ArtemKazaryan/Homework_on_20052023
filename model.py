@@ -50,7 +50,7 @@ class Model:
                     break
                 for prop in footwear.__dict__.values():
                     if crit.lower() in prop.lower():
-                        footwear_pairs.append(article)
+                        footwear_pairs.append(footwear)
                         break
 
         return footwear_pairs
